@@ -31,7 +31,7 @@ Bonus Questions
 
 The median is a better representation of the data. The outliers are all on the high side, making the mean artificially high. There is more variation in the successful. This does make sense- the failed ones had less overall interest, so the number of backers would be lower.
 
-![SuccessfulCampaigns](Images/SuccessfulCampaigns.PNG)
+![SuccessfulCampaigns](Images/SuccessfulCampaigns.png)
 
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
